@@ -9,6 +9,7 @@ body {
     background-color: #fff8ef;
     color: #333;
     line-height: 1.6;
+    padding:20;
 }
 
 h1 {
@@ -94,7 +95,7 @@ hr {
     width:250px;
     font-size: 12px;
     display: block;
-    background-color: #25D366;
+    background-color: #5b1a0b;
     color:white;
     border-radius: 8px;
     text-decoration: none;
