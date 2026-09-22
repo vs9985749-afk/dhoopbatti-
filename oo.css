@@ -9,7 +9,7 @@ body {
     background-color: #fff8ef;
     color: #333;
     line-height: 1.6;
-    padding:20px;
+    
 
 }
 
@@ -38,6 +38,7 @@ h2 {
 h3 {
     color: #5b1a0b;
     margin-top: 20px;
+    padding:20px;
 }
 
 p {
